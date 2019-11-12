@@ -14,5 +14,3 @@ barplot(Freq ~ Var1, data = tab,, xlab="year", ylab = 'Total PM2.5 Emmission')
 dev.off()
 
 
-
-
